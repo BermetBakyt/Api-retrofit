@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testTaskAttr</string>
+    <string name="greeting">Hello!</string>
+    <string name="btn_txt">Open Gallery!</string>
+</resources>
